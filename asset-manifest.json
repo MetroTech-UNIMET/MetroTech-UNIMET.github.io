@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.76feebc0.css",
-    "main.js": "/static/js/main.5a32263b.js",
-    "static/js/787.0a362384.chunk.js": "/static/js/787.0a362384.chunk.js",
-    "static/media/Saman.png": "/static/media/Saman.4eecc10d09f92b1eef85.png",
-    "static/media/isotipo.png": "/static/media/isotipo.fe8562349c438095e5aa.png",
-    "index.html": "/index.html",
-    "main.76feebc0.css.map": "/static/css/main.76feebc0.css.map",
-    "main.5a32263b.js.map": "/static/js/main.5a32263b.js.map",
-    "787.0a362384.chunk.js.map": "/static/js/787.0a362384.chunk.js.map"
+    "main.css": "/metrotech/static/css/main.76feebc0.css",
+    "main.js": "/metrotech/static/js/main.08f40121.js",
+    "static/js/787.0a362384.chunk.js": "/metrotech/static/js/787.0a362384.chunk.js",
+    "static/media/Saman.png": "/metrotech/static/media/Saman.4eecc10d09f92b1eef85.png",
+    "static/media/isotipo.png": "/metrotech/static/media/isotipo.fe8562349c438095e5aa.png",
+    "index.html": "/metrotech/index.html",
+    "main.76feebc0.css.map": "/metrotech/static/css/main.76feebc0.css.map",
+    "main.08f40121.js.map": "/metrotech/static/js/main.08f40121.js.map",
+    "787.0a362384.chunk.js.map": "/metrotech/static/js/787.0a362384.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.76feebc0.css",
-    "static/js/main.5a32263b.js"
+    "static/js/main.08f40121.js"
   ]
 }
